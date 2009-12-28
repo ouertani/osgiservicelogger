@@ -1,0 +1,7 @@
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: Logger.Service
+Bundle-Name: Logger.Service
+Bundle-Vendor: JTUNISIE
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-Activator: com.jtunisie.akel.servicelogger.impl.Activator
+DynamicImport-Package: *
